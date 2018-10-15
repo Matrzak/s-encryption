@@ -4,6 +4,8 @@
 
 # TODO
 
-[x] MD5
-[x] SHA1
-[ ] key/value algorithm
+- [x] MD5
+- [x] SHA1
+- [ ] key/value algorithm
+- [ ] add possibility to input a text
+- [ ] choose your algorithm :)
