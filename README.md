@@ -1,10 +1,6 @@
 ### s-encryption (simple encryption)
 
-> A Java implementation of well-known hashing/encrypting algorithms
-> like SHA or MD family.
-
-> This project also constaint a pseudo-kind of hashing functions like
-> based on key string converter to hashed message
+> A Java implementation of well-known hashing/encrypting algorithms like SHA or MD family. This project also constaint a pseudo hashing functions like based on key string converter to hashed message
 
 # TODO
 
